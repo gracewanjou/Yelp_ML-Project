@@ -1,3 +1,3 @@
-# hello-world
+# Yelp 
 practice creating a new repository
-#BCIT student graduating from ADA in spring 2019
+#BCIT student soon graduating from Data Analytics program
